@@ -39,3 +39,43 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="4U TV" group-title="Türkiye", 4U TV
 https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="5 канал" group-title="Ukraine", 5 канал
+https://www.youtube-nocookie.com/embed/Y83Ea7NSqvE
+#EXTINF:-1 tvg-id="7 TeleValencia" group-title="Spain", 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="7 Televisión Región de Murcia" group-title="Spain", 7 Televisión Región de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="10 Bold Adelaide" group-title="Australia", 10 Bold Adelaide
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="10TV News Telugu" group-title="India", 10TV News Telugu
+https://www.youtube-nocookie.com/embed/byG7EGw9NPs
+#EXTINF:-1 tvg-id="12 TV Parma" group-title="Italy", 12 TV Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="12 канал" group-title="Russian Federation", 12 канал
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="13 Entretención" group-title="Chile", 13 Entretención
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-id="13 Festival" group-title="Chile", 13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="13 Realities" group-title="Chile", 13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="13 Siam Thai" group-title="Thailand", 13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+#EXTINF:-1 tvg-id="13 Teleseries" group-title="Chile", 13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="16tv Budapest" group-title="Hungary", 16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="23 ABC Bakersfield CA (KERO)" group-title="United States", 23 ABC Bakersfield CA (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="24 Horas" group-title="Chile", 24 Horas
+https://www.youtube-nocookie.com/embed/bad5HyO2SGo
+#EXTINF:-1 tvg-id="24 Horas Internacional" group-title="Spain", 24 Horas Internacional
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24 Hour Free Movies" group-title="United States", 24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="24 News" group-title="India", 24 News
+https://www.youtube-nocookie.com/embed/1wECsnGZcfc
+#EXTINF:-1 tvg-id="24 News HD" group-title="Pakistan", 24 News HD
+https://www.youtube-nocookie.com/embed/d6lf8gIsbWk
+#EXTINF:-1 tvg-id="24 TV" group-title="Türkiye", 24 TV
+https://www.youtube-nocookie.com/embed/72n-K9jxRJ0
