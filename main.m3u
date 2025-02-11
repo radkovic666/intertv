@@ -5,6 +5,8 @@ https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1TV" group-title="Georgia", 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="002 Radio TV" group-title="Dominican Republic", 002 Radio TV
+https://cdn.002radio.com:3909/live/radio002live.m3u8
 #EXTINF:-1 tvg-id="2TV" group-title="Georgia", 2TV
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="3 Tamil TV" group-title="Australia", 3 Tamil TV
@@ -33,14 +35,10 @@ https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:-1 tvg-id="4DmásNoticias TV" group-title="Paraguay", 4DmásNoticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:-1 tvg-id="4FUN TV" group-title="Poland", 4FUN TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4K Travel TV" group-title="United States", 4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="4U TV" group-title="Türkiye", 4U TV
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="5 Plus" group-title="Myanmar", 5 Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 tvg-id="7 TeleValencia" group-title="Spain", 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="7 Televisión Región de Murcia" group-title="Spain", 7 Televisión Región de Murcia
@@ -61,8 +59,8 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="13 Teleseries" group-title="Chile", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="13C" group-title="Chile", 13C
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="16tv Budapest" group-title="Hungary", 16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="23 ABC Bakersfield CA (KERO)" group-title="United States", 23 ABC Bakersfield CA (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="24 Horas Internacional" group-title="Spain", 24 Horas Internacional
@@ -103,31 +101,3 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="98.1 Pearl FM" group-title="Sint Maarten (Dutch part)", 98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-id="101tv Axarquia" group-title="Spain", 101tv Axarquia
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
-#EXTINF:-1 tvg-id="247 Box" group-title="Iran, Islamic Republic of", 247 Box
-https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="360 TV" group-title="Türkiye", 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="360°" group-title="Russian Federation", 360°
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360° Новости" group-title="Russian Federation", 360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A Haber" group-title="Türkiye", A Haber
-https://c.fulltvizle.com/ahaber/index.m3u8
-#EXTINF:-1 tvg-id="A Spor" group-title="Türkiye", A Spor
-https://c.fulltvizle.com/aspor/index.m3u8
-#EXTINF:-1 tvg-id="A+ Guate" group-title="Guatemala", A+ Guate
-https://ch2-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-id="A1 TV" group-title="Netherlands", A1 TV
-https://stream.a1mediagroep.nl/hls/a1tv.m3u8
-#EXTINF:-1 tvg-id="A2 CNN" group-title="Albania", A2 CNN
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A2TV" group-title="Türkiye", A2TV
-https://c.fulltvizle.com/a2/index.m3u8
-#EXTINF:-1 tvg-id="A2Z" group-title="Philippines", A2Z
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1 tvg-id="A12 TV" group-title="France", A12 TV
-https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8
-#EXTINF:-1 tvg-id="A21 VITAL AUTOSPORT" group-title="Russian Federation", A21 VITAL AUTOSPORT
-https://autopilot.catcast.tv/content/37909/index.m3u8
