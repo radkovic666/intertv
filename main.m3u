@@ -8066,7 +8066,3 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="Телеканал Краснодар" group-title="Russian Federation", Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Телплюс ТВ (Астрахань)" group-title="Russian Federation", Телплюс ТВ (Астрахань)
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 tvg-id="Тернопіль 1" group-title="Ukraine", Тернопіль 1
-https://ott.columbus.te.ua/ternopil1/index.m3u8
